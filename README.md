@@ -137,8 +137,7 @@ areaBtn.addEventListener('click',function(e){
 ```
 
 ## OUTPUT:
-![output](./static/imgage/cylinderoutput.jpg)
-
+![output](./static/imgage/volumeoutput.jpg)
 ![output](./static/image/radiusoutput.jpg)
 
 
